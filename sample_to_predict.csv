@@ -1,0 +1,6 @@
+Mileage,EngineV,Brand_Audi,Brand_BMW,Brand_Mercedes-Benz,Brand_Mitsubishi,Brand_Renault,Brand_Toyota,Brand_Volkswagen,Body_crossover,Body_hatch,Body_other,Body_sedan,Body_vagon,Body_van,Engine Type_Diesel,Engine Type_Gas,Engine Type_Other,Engine Type_Petrol,Registration_no,Registration_yes
+100,2.0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+200,3.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+300,4.2,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1
+400,1.8,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0
+150,2.5,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1
