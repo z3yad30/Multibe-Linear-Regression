@@ -185,6 +185,7 @@ def MultibleLinearRegression(fileName, target, features):
 
 
 def get_info():
+    # enter the file name that holds the data
     x1 = input('📁 Enter the sample data file name: ')
     x2 = input('🎯 Enter the target variable name: ')
     x3 = [f.strip() for f in input('🔢 Enter the feature vars (use "-" between names): ').split('-')]
