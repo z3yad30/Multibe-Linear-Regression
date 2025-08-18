@@ -156,3 +156,5 @@ MIT — feel free to use, modify, and share.
 🙌 Acknowledgements
 
 Built with ❤️ using pandas, scikit-learn, statsmodels, matplotlib, and seaborn.
+
+[My CV].(https://github.com/yourusername/yourrepo/raw/main/CV.pdf) 
